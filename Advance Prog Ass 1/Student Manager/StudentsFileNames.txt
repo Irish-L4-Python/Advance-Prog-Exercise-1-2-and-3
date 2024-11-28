@@ -1,0 +1,12 @@
+text file:
+10
+1234, Jake Hobbs, 12,15,11,50
+5678, Persi Monn, 16,20,18,90
+9101, Chester Yama, 17,22,15,95
+1121, Emily Paris, 13,11,20,50
+1415, Dixie Margie, 22,20,20,100
+2324, Bhaby Johnson, 15,18,16,70
+4678, Hakuna Matata, 13,14,10,80
+8421, Sarah Davis, 15,17,19,90
+1802, Didi James, 22,16,18,85
+2893, Laurice Yeng, 17,15,20,70

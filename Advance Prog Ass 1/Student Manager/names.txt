@@ -1,0 +1,11 @@
+10
+1234,Jake Hobbs,10,11,10,43
+5678,Persi Monn,15,16,17,89
+9101, Chester Yama, 17,22,15,95
+1121,Emily Paris,12,13,14,50
+1415,Dixie Margie,19,20,20,100
+2324,Bhaby Johnson,14,15,16,72
+4678,Hakuna Matata,11,12,13,60
+8421,Sarah Davis,16,17,18,80
+1802,Didi James,20,19,18,90
+2893,Laurice Yeng,15,16,15,65
